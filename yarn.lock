@@ -7826,9 +7826,10 @@ strip-json-comments@^3.1.0, strip-json-comments@^3.1.1:
   version "3.1.1"
   resolved "https://registry.yarnpkg.com/strip-json-comments/-/strip-json-comments-3.1.1.tgz#31f1281b3832630434831c310c01cccda8cbe006"
 
-stripe@*, stripe@^8.168.0:
-  version "8.176.0"
-  resolved "https://registry.yarnpkg.com/stripe/-/stripe-8.176.0.tgz#2f4980ab49acbfe6d67ecaddd54c05e20de9532c"
+stripe@*, stripe@^8.196.0:
+  version "8.196.0"
+  resolved "https://registry.yarnpkg.com/stripe/-/stripe-8.196.0.tgz#112550fd78cedaecd4071bb7c0b7249edc9d551e"
+  integrity sha512-y9vIgPJUdfUJACUyf+Uji57bQTFBZluVW7Ia63Jp7QNwgp/kdoNKgLX0u0njNwRBmJpKX+BxLFJBHw+VRUYrMQ==
   dependencies:
     "@types/node" ">=8.1.0"
     qs "^6.6.0"
